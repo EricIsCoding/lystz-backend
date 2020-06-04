@@ -45,3 +45,5 @@ gem "fast_jsonapi", "~> 1.5"
 gem "foreman", "~> 0.87.1"
 
 gem "faker", "~> 2.11"
+
+gem "dotenv", "~> 2.7"
